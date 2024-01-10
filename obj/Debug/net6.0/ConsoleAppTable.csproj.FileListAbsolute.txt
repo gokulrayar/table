@@ -1,0 +1,14 @@
+F:\Mphasis practice\phase 4\ConsoleAppTable\ConsoleAppTable\bin\Debug\net6.0\ConsoleAppTable.exe
+F:\Mphasis practice\phase 4\ConsoleAppTable\ConsoleAppTable\bin\Debug\net6.0\ConsoleAppTable.deps.json
+F:\Mphasis practice\phase 4\ConsoleAppTable\ConsoleAppTable\bin\Debug\net6.0\ConsoleAppTable.runtimeconfig.json
+F:\Mphasis practice\phase 4\ConsoleAppTable\ConsoleAppTable\bin\Debug\net6.0\ConsoleAppTable.dll
+F:\Mphasis practice\phase 4\ConsoleAppTable\ConsoleAppTable\bin\Debug\net6.0\ConsoleAppTable.pdb
+F:\Mphasis practice\phase 4\ConsoleAppTable\ConsoleAppTable\obj\Debug\net6.0\ConsoleAppTable.GeneratedMSBuildEditorConfig.editorconfig
+F:\Mphasis practice\phase 4\ConsoleAppTable\ConsoleAppTable\obj\Debug\net6.0\ConsoleAppTable.AssemblyInfoInputs.cache
+F:\Mphasis practice\phase 4\ConsoleAppTable\ConsoleAppTable\obj\Debug\net6.0\ConsoleAppTable.AssemblyInfo.cs
+F:\Mphasis practice\phase 4\ConsoleAppTable\ConsoleAppTable\obj\Debug\net6.0\ConsoleAppTable.csproj.CoreCompileInputs.cache
+F:\Mphasis practice\phase 4\ConsoleAppTable\ConsoleAppTable\obj\Debug\net6.0\ConsoleAppTable.dll
+F:\Mphasis practice\phase 4\ConsoleAppTable\ConsoleAppTable\obj\Debug\net6.0\refint\ConsoleAppTable.dll
+F:\Mphasis practice\phase 4\ConsoleAppTable\ConsoleAppTable\obj\Debug\net6.0\ConsoleAppTable.pdb
+F:\Mphasis practice\phase 4\ConsoleAppTable\ConsoleAppTable\obj\Debug\net6.0\ConsoleAppTable.genruntimeconfig.cache
+F:\Mphasis practice\phase 4\ConsoleAppTable\ConsoleAppTable\obj\Debug\net6.0\ref\ConsoleAppTable.dll
